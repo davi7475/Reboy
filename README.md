@@ -1,3 +1,3 @@
 # Reboy Alpha 0.1
-A C# Operating System
-WARNING: THIS PROJECT IS NOT DONE YET, THIS IS JUST A PROOF OF CONCEPT
+Um sistema operacional feito em C#
+AVISO: ESTE SISTEMA NÃO ESTÁ PRONTO AINDA, ISSO É APENAS UMA PROVA DE CONCEITO (por enquanto)
