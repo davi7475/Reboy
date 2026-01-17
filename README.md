@@ -1,2 +1,3 @@
-# Reboy
+# Reboy Alpha 0.1
 A C# Operating System
+WARNING: THIS PROJECT IS NOT DONE YET, THIS IS JUST A PROOF OF CONCEPT
